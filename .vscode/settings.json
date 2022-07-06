@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "prueba",
+            "group": "SQLite",
+            "database": "${workspaceFolder:Practico_4_Movie_Node}/proyecto_4_movie_node_db.sqlite"
+        }
+    ]
+}
